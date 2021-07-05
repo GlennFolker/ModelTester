@@ -1,0 +1,11 @@
+# Java
+build/
+bin/
+.project
+.classpath
+.settings/
+.gradle/
+
+# IDE-specific
+.idea/
+.vscode/

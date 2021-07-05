@@ -1,3 +1,0 @@
-model/ModelTester.java
- model.ModelTester
- model.ModelTester$1
